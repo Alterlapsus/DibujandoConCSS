@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.bandera{
+    margin: 80px;
+    width: 70px;
+    height: 150px;
+    background-color: #000;
+    box-shadow: 70px 0 #FDDA25, 140px 0 #EF3340;
+    filter: drop-shadow(0 0 1px);
+}
