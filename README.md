@@ -1,6 +1,6 @@
 # DibujandoConCSS
 
-- Se realizan dibujos con CSS y HTML, como práctica para mejorar las habilidades. 
+- Se realizan dibujos con HTML Y CSS, como práctica para mejorar las habilidades de maquetación. 
 
 
 
